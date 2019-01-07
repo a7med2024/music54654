@@ -1,0 +1,6 @@
+owner=349906494822547471
+prefix= 2
+game= Type 2 help
+stayinchannel=true
+songinstatus=true 
+token=NTI3ODQ0NDM1ODQxNjQ2NTk0.DwZpBA.E2yzoKOAH2-yUJrxuMsJGeRD6UU
